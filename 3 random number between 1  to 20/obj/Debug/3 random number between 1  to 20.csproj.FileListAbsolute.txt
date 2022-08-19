@@ -1,0 +1,8 @@
+C:\Users\ali\source\repos\3 random number between 1  to 20\bin\Debug\3 random number between 1  to 20.exe.config
+C:\Users\ali\source\repos\3 random number between 1  to 20\bin\Debug\3 random number between 1  to 20.exe
+C:\Users\ali\source\repos\3 random number between 1  to 20\bin\Debug\3 random number between 1  to 20.pdb
+C:\Users\ali\source\repos\3 random number between 1  to 20\obj\Debug\3 random number between 1  to 20.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\3 random number between 1  to 20\obj\Debug\3 random number between 1  to 20.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali\source\repos\3 random number between 1  to 20\obj\Debug\3 random number between 1  to 20.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\3 random number between 1  to 20\obj\Debug\3 random number between 1  to 20.exe
+C:\Users\ali\source\repos\3 random number between 1  to 20\obj\Debug\3 random number between 1  to 20.pdb
